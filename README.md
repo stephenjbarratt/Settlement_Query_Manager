@@ -8,8 +8,8 @@ This project involves the creation of an interactive dashboard and Aged Risk Tra
 In high-volume financial operations, client queries can be spread across multiple desks. Manual tracking leads to "Aged Risks" - trades that remain unsettled past their value date, increasing financial exposure.
 
 ## Objectives
-•	Centralisation - Consolidate trade queries into a single resource.
-•	Mitigate Risk - Implement logic to categorise trades into Low, Medium and High Risk buckets and flag High Risk buckets.
-•	Dynamic Interactivity - Enable desk-specific drill downs using synchronised slicers.
+* **Centralisation** - Consolidate trade queries into a single resource.
+* **Mitigate Risk** - Implement logic to categorise trades into Low, Medium and High Risk buckets and flag High Risk buckets.
+* **Dynamic Interactivity** - Enable desk-specific drill downs using synchronised slicers.
 
 ## Visual Preview
