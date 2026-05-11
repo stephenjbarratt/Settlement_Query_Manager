@@ -13,3 +13,4 @@ In high-volume financial operations, client queries can be spread across multipl
 * **Dynamic Interactivity** - Enable desk-specific drill downs using synchronised slicers.
 
 ## Visual Preview
+![Settlement Query Management Dashboard Preview](images/Dashboard_Overview.png)
