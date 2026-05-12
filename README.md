@@ -1,5 +1,5 @@
 # Settlement_Query_Manager
-A dynamic Excel-based risk management tool designed to centralise trade exceptions and prioritise Aged Risk across global markets 
+A dynamic Excel-based risk management tool designed to centralise trade exceptions and prioritise Aged Risk across global markets. 
 
 ## Executive Summary
 This project involves the creation of an interactive dashboard and Aged Risk Tracker for a Markets Operations environment. The tool is engineered to provide real-time visibility into trade settlement queries, prioritising "High Risk" to ensure regulatory compliance. By transitioning from static data lists to a dynamic, risk-first visualization, the dashboard reduces management blind spots and accelerates decision-making.
