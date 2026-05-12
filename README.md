@@ -39,7 +39,7 @@ This dashboard is designed for interactive exploration, follow these steps to pe
 1. Global Filtering
 Use the slicer panel across the top of the dashboard to filter by Asset Class (Securities, FX). To multi select hold ctrl while clicking to view multiple categories simultaneously.
 
-* ### 2. Identifying High Risk Exceptions
+1. Identifying High Risk Exceptions
 Observe the red KPI score card on the right hand side, this card is linked via the logic bridge to display the total count of queries aged 4 or more days old. Select the Counterparty slicer and scroll down to see a breakdown of which particular firms (Barclays PLC, BlackRock Global) are driving that exposure.
 
 * ### 3. Resetting the view
