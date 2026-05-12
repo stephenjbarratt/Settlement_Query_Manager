@@ -49,7 +49,7 @@ Click the clear filter icon at the top right hand corner of any Slicer to return
 To update the dashboard with a new query, paste entries into the the Data Table and select Refresh All, the Pivot Tables and logic bridge will automatically recalculate the aged risk buckets.
 
 ## Technical Report
-A technical report of the project, including a full analysis of the data, can be found here: **[Download the Technical Report](docs/Technical_Report.pdf)**
+A technical report of the project, including a full analysis of the data, can be found here: **[Download the Technical Report](docs/TechnicalReport.pdf)**
 
 ---
 
