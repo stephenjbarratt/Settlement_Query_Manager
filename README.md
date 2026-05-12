@@ -36,20 +36,20 @@ Contains a connection layer between the raw data and the UI. By using the GETPIV
 ## Usage Instructions
 This dashboard is designed for interactive exploration, follow these steps to perform a Risk Analysis:
 
-### 1. Global Filtering
+* ### 1. Global Filtering
 Use the slicer panel across the top of the dashboard to filter by Asset Class (Securities, FX). To multi select hold ctrl while clicking to view multiple categories simultaneously.
 
-### 2. Identifying High Risk Exceptions
+* ### 2. Identifying High Risk Exceptions
 Observe the red KPI score card on the right hand side, this card is linked via the logic bridge to display the total count of queries aged 4 or more days old. Select the Counterparty slicer and scroll down to see a breakdown of which particular firms (Barclays PLC, BlackRock Global) are driving that exposure.
 
-### 3. Resetting the view
+* ### 3. Resetting the view
 Click the clear filter icon at the top right hand corner of any Slicer to return to the global, total exposure, view.
 
-### 4. Data Maintenance
+* ### 4. Data Maintenance
 To update the dashboard with a new query, paste entries into the the Data Table and select Refresh All, the Pivot Tables and logic bridge will automatically recalculate the aged risk buckets.
 
 ## Technical Report
-A technical report of the project, including a full analysis of the data, can be found here.
+A technical report of the project, including a full analysis of the data, can be found here: **[Download the Technical Report](docs/Technical_Report.pdf)**
 
 ---
 
