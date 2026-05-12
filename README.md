@@ -36,7 +36,7 @@ Contains a connection layer between the raw data and the UI. By using the GETPIV
 ## Usage Instructions
 This dashboard is designed for interactive exploration, follow these steps to perform a Risk Analysis:
 
-* ### 1. Global Filtering
+1. Global Filtering
 Use the slicer panel across the top of the dashboard to filter by Asset Class (Securities, FX). To multi select hold ctrl while clicking to view multiple categories simultaneously.
 
 * ### 2. Identifying High Risk Exceptions
